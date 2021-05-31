@@ -3,6 +3,7 @@
 # cv-project
 
 [gh-pages](https://laguna1.github.io/cv-project/)
+[json parser](https://jsonformatter.org/json-parser)
 
 ### Author
 
