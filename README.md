@@ -2,6 +2,8 @@
 
 # cv-project
 
+[gh-pages](https://laguna1.github.io/cv-project/)
+
 ### Author
 
 👤 **Oksana Petrova**
